@@ -61,7 +61,11 @@ contact: 'haoye@seas.upenn.edu'
 episodes: 
 - introduction.md
 - 01_what-is-data-viz.md
+- 02_understanding-your-data.md
 - 03_creating-data-viz.md
+- 04_evaluating-data-viz.md
+- 05_error-awareness.md
+
 
 # Information for Learners
 learners: 
