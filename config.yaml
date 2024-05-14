@@ -60,6 +60,8 @@ contact: 'haoye@seas.upenn.edu'
 # Order of episodes in your lesson
 episodes: 
 - introduction.md
+- 01_what-is-data-viz.md
+- 03_creating-data-viz.md
 
 # Information for Learners
 learners: 
