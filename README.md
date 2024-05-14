@@ -1,6 +1,6 @@
 # Data Visualization
 
-This lesson is built using [The Carpentries Workbench][workbench]. 
+This lesson is built using [The Carpentries Workbench](https://carpentries.github.io/workbench/). 
 
 ## Description
 
