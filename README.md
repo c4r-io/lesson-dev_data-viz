@@ -8,8 +8,8 @@ Learners will discover best practices in creating visual displays of data in ord
 
 ## Authors
 
-April Clyburne-Sherin @aprilcs
-Ani Govjian @agovjian
-Kevin Rusch @RR-N
-Karen Word @karenword
-Hao Ye @ha0ye
+* April Clyburne-Sherin @aprilcs
+* Ani Govjian @agovjian
+* Kevin Rusch @RR-N
+* Karen Word @karenword
+* Hao Ye @ha0ye
