@@ -11,8 +11,8 @@ exercises: 0
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: objectives
-- Explain the purpose of data visualization in communicating a scientific story or idea
-- Identify the components of a data visualization and their function
+- Imagine that different visualizations of the same data can tell different stories
+- Identify the components of a data visualization and explain their function
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Terminology
