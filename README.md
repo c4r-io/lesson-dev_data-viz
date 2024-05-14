@@ -1,4 +1,4 @@
-# The Carpentries Workbench Template Markdown Lesson
+# Data Visualization
 
 This lesson is a template lesson that uses [The Carpentries Workbench][workbench]. 
 
