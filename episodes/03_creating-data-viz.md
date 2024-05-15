@@ -25,6 +25,14 @@ exercises: 0
 
 Challenge text, code, and other information goes here
 
+:::::::::::::: hint
+
+### Hints
+
+Hints
+
+:::::::::::::::::::::::::
+
 :::::::::::::: solution
 
 ### Solution Title
