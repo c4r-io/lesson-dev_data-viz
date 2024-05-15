@@ -18,3 +18,19 @@ exercises: 0
 - Contrast different visual strategies for outliers
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::: challenge
+
+### Different data visualizations for a dataset
+
+Challenge text, code, and other information goes here
+
+:::::::::::::: solution
+
+### Solution Title
+
+Solution text, code, and other information
+
+:::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
