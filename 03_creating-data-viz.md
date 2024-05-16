@@ -3,6 +3,11 @@ title: "Creating Data Visualizations"
 teaching: 0
 exercises: 0
 ---
+:::::::::::::::::::::::::::::::::::::: instructor 
+
+- Have fun with data visualization! 🎈
+
+::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::: questions 
 
