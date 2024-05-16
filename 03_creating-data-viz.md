@@ -6,7 +6,9 @@ exercises: 0
 
 :::::::::::::::::::::::::::::::::::::: questions 
 
-- TODO
+- How do I choose a data visualization?
+- How do I help readers understand my data?
+- How do I visualize uncertainty and weird data?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -42,3 +44,13 @@ Solution text, code, and other information
 :::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::: keypoints
+
+### Takeaways
+
+- You can make your data visualization more accessible with appropriate design choices.
+- Your choices matter to your reader.
+- 
+
+::::::::::::::::::::::::::::::::::::::::::::::::
