@@ -15,6 +15,17 @@ exercises: 0
 - Identify the components of a data visualization and explain their function
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
+::::::::::::::::::::::::::::::::::::: instructor
+
+Will you come to my Birthday Party?
+
+[ ] Yes
+
+[ ] No
+
+:::::::::::::::::::::::::::::::::::::::::::::::::
+
+
 ## Terminology
 
 ## The purpose of data visualization
